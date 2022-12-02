@@ -25,9 +25,9 @@ header{
     height: 600px;
     background: #bc4e9c; 
      /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #f80759, #bc4e9c), url(../img/cartagenanoche.jpeg); 
+    background: -webkit-linear-gradient(to right, hsla(340, 95%, 50%, 0.5), hsla(317, 45%, 52%, 0.449)), url(../img/coveñas.jpeg);
      /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(340, 95%, 50%, 0.5), hsla(317, 45%, 52%, 0.449)), url(../img/cartagenanoche.jpeg);  
+    background: linear-gradient(to right, hsla(340, 95%, 50%, 0.5), hsla(317, 45%, 52%, 0.449)), url(../img/coveñas.jpeg);  
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
@@ -36,4 +36,19 @@ header{
 nav{
     text-align: right;
     padding: 30px 50px 0 0;
+} 
+nav > a{
+    color: #fff;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 10px;
+}
+nav > a:hover{
+    text-decoration: underline;
+}
+.wave{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
 }
