@@ -70,5 +70,16 @@ header .textos-header{
     position: absolute;
     bottom: 0;
     width: 100%;
+}
 
+/* about us*/
+.contenedor-viajes-importantes{
+    display: flex;
+    justify-content: space-evenly;
+}
+.imagen-about-us{
+    width: 48%;
+}
+.viajes-importantes .contenido-textos{
+    width: 48%;
 }
