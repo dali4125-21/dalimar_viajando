@@ -104,6 +104,5 @@ header .textos-header{
 .contenido-texto p{
     padding: 0px 0 30px 15px;
     font-weight: 300;
-    text-align: justify;
-    text-align: justify;
+    text-align: center;
 }
