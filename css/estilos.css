@@ -96,5 +96,13 @@ header .textos-header{
     height: 30px;
     padding: 2px;
     box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
-    padding: 2px;
+    padding: 5px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    margin-right: 5px;
+}
+
+.contenido-texto p{
+    padding: 0px 0 30px 15px;
+    font-weight: 300;
+    text-align: justify;
 }
