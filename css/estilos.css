@@ -225,4 +225,9 @@ footer{
     justify-content: space-evenly;
     margin: auto;
     padding-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+}
+
+.content-foo{
+    text-align: center;
 }
