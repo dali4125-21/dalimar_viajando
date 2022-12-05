@@ -174,3 +174,7 @@ header .textos-header{
     border-radius: 50%;
     display: block;
 }
+.cards .card > .contenido-textos-card{
+    width: 60%;
+    color: #fff;
+}
