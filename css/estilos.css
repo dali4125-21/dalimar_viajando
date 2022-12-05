@@ -172,10 +172,10 @@ header .textos-header{
 }
 
 .cards .card img{
-    width: 100px;
+    width: 400px;
     height: 300px;
     object-fit: cover;
-    border: 8px solid #fff;
+    border: 2px solid #fff;
     border-radius: 50%;
     display: block;
 }
