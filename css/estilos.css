@@ -267,12 +267,20 @@ footer{
     border: 1px solid #fff;
     border-radius:50%;
 }
-.footer__icon{
+.footer__title{
+    font-weight: 400;
+    color: #fff;
+    font-size: 2rem;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+.footer__icons{
     color: inherit;
     font-size: 30px;
     text-decoration: none;
 }
-.fab.footer__icon{
+.fab.footer__icons{
     line-height: 60px;
 
 }
