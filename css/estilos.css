@@ -164,7 +164,7 @@ header .textos-header{
     background: #4d0686;
     display: flex;
     width: 46%;
-    height: 300px;
+    height: 400px;
     align-items: center;
     justify-content: space-evenly;
     border-radius: 5px;
@@ -180,7 +180,7 @@ header .textos-header{
     display: block;
 }
 .cards .card > .contenido-texto-card{
-    width: 60%;
+    width: 20%;
     color: #fff;
 }
 .cards .card > .contenido-texto-card p{
