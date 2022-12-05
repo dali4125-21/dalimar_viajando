@@ -180,7 +180,7 @@ header .textos-header{
     display: block;
 }
 .cards .card > .contenido-texto-card{
-    width: 90%;
+    width: 100%;
     color: #fff;
 }
 .cards .card > .contenido-texto-card p{
