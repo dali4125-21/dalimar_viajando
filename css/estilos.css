@@ -141,5 +141,10 @@ header .textos-header{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+.hover-galeria img{
+    width: 50px;
+}
+.hover-galeria p{
 
 }
