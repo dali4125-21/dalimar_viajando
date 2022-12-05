@@ -169,6 +169,7 @@ header .textos-header{
     justify-content: space-evenly;
     border-radius: 5px;
     box-shadow: 0 0 6px 0 rgba(0, 0, 0, .6);
+    margin-bottom: 20px;
 }
 
 .cards .card img{
@@ -176,8 +177,10 @@ header .textos-header{
     height: 100px;
     object-fit: cover;
     border: 3px solid #fff;
+    object-position: top;
     border-radius: 50%;
     display: block;
+    margin-right: 30px;
 }
 .cards .card > .contenido-texto-card{
     width: 90%;
@@ -271,5 +274,5 @@ footer{
 }
 .fab.footer__icon{
     line-height: 60px;
-    
+
 }
