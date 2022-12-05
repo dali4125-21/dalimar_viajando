@@ -46,9 +46,7 @@ nav > a{
 nav > a:hover{
     text-decoration: underline;
 }
-nav > navbar-brand{
-    margin-left: 5px;
-}
+
 header .textos-header{
     display: flex;
     height: 430px;
