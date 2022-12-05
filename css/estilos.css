@@ -265,5 +265,11 @@ footer{
     border-radius:50%;
 }
 .footer__icon{
+    color: inherit;
+    font-size: 30px;
+    text-decoration: none;
+}
+.fab.footer__icon{
+    line-height: 60px;
     
 }
