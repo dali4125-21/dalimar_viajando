@@ -175,12 +175,12 @@ header .textos-header{
     width: 100px;
     height: 300px;
     object-fit: cover;
-    border: 3px solid #fff;
+    border: 2px solid #fff;
     border-radius: 50%;
     display: block;
 }
 .cards .card > .contenido-texto-card{
-    width: 100%;
+    width: 90%;
     color: #fff;
 }
 .cards .card > .contenido-texto-card p{
