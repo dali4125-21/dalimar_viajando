@@ -164,7 +164,7 @@ header .textos-header{
     background: #4d0686;
     display: flex;
     width: 46%;
-    height: 600px;
+    height: 100px;
     align-items: center;
     justify-content: space-evenly;
     border-radius: 5px;
@@ -173,7 +173,7 @@ header .textos-header{
 
 .cards .card img{
     width: 100px;
-    height: 600px;
+    height: 200px;
     object-fit: cover;
     border: 2px solid #fff;
     border-radius: 50%;
