@@ -201,9 +201,28 @@ header .textos-header{
 }
 
 .servicio-ind img{
-    width: 100%;
+    width: 90%;
 }
 
 .servicio-ind h3{
     margin: 10px 0;
+}
+.servicio-ind p{
+    font-weight: 300;
+    text-align: justify;
+}
+/*footer*/
+
+footer{
+    background: #414141;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+.contenedor-footer{
+    display:flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
 }
