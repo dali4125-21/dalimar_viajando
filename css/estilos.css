@@ -178,6 +178,7 @@ header .textos-header{
     border: 2px solid #fff;
     border-radius: 50%;
     display: block;
+    align-items: flex-start;
 }
 .cards .card > .contenido-texto-card{
     width: 90%;
