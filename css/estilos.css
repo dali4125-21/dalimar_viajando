@@ -178,3 +178,7 @@ header .textos-header{
     width: 70%;
     color: #fff;
 }
+.cards .card > .contenido-texto-card p{
+    font-weight: 300;
+    padding: 5px;
+}
