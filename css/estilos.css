@@ -175,7 +175,7 @@ header .textos-header{
     width: 100px;
     height: 300px;
     object-fit: cover;
-    border: 1px solid #fff;
+    border: 8px solid #fff;
     border-radius: 50%;
     display: block;
 }
